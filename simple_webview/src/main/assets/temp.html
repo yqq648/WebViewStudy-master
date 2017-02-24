@@ -1,0 +1,19 @@
+<html>
+<title>WebView功能测试</title>
+<!--<script type="javascript">-->
+    <!--window.alert('nihao');-->
+<!--</script>-->
+<body>
+    <!-- 调用自生，打开网页 -->
+    <!-- Uri.parse("tel:10086") -->
+    <a href="https://www.baidu.com" >百度一下</a><br />
+    <a href="tel:10086">10086客服</a><br />
+    <a href="sms:10086">10086短信</a><br />
+    <!-- 调用网页中自带的javascript方法，调用自定义的javascript方法 -->
+    <a href="http://player.youku.com/embed/XMTMxOTk1ODI4OA">全屏播放视频</a><br />
+    <a href="#" onclick="window.alert('我再想想')">你要什么服务</a><br />
+    <a href="#" onclick="anzhuo.toast('i have a dream!')" >安卓自带的对象的javascript方法</a><br />
+    <!-- 上传文件 -->
+    <input type="file" >
+</body>
+</html>

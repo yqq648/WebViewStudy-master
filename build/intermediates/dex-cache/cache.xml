@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_94bd045ae47dc122be5f945cf2865f7af24907a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_84a1b353e23f632dffcfdfef55874b342312e289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aaee3e2866727d2166038d5f499d2363e8c6950c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dd4e47b5877bd72c6b199042fddbf81064200e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ed855d92f8439e30d13b092e903298dc0a4c8641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_00b6d159574c97a5eeda7ffea2e0b8bc65e37422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_501690217049a79fb181e37874b6f085ee0a1f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_15666bd75cb5e9fa47ff39a2425c0d96935afd0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b2d967d18eed8a7276d19520ecb8b3bb8bfc6db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_9b047ed51dbcd89c6a29dec1e48c67a63a800bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b468b4b5183dd1e83bd1ee889da6eaca061b6252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3a2c6733ee38ba957f9075157d3ae703c4e8185e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_80b50796085e443cadd70255ff1a741bc7bbafca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6f829a16291c1e70425a8b8fc4c6ce3b53c47a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android\app\WebViewStudy-master\simple_webview\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eaff19497d5f6fe269b426dad3e660bae67b62a8.jar" />
+    </item>
+
+</items>
